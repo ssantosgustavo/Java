@@ -1,6 +1,0 @@
-.metadata
-bytebank
-bytebank-composto
-bytebank-encapsulado
-bytebank-herança
-Testes
