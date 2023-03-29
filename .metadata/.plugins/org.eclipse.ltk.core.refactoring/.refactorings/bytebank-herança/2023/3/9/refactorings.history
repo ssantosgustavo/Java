@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;FuncionarioAutenticavel&apos; to &apos;Autenticavel&apos;&#x0D;&#x0A;- Original project: &apos;bytebank-herança&apos;&#x0D;&#x0A;- Original element: &apos;FuncionarioAutenticavel&apos;&#x0D;&#x0A;- Renamed element: &apos;Autenticavel&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;FuncionarioAutenticavel&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{FuncionarioAutenticavel.java[FuncionarioAutenticavel" matchStrategy="1" name="Autenticavel" qualified="false" references="true" similarDeclarations="false" stamp="1677791841608" textual="false" version="1.0"/>
+</session>

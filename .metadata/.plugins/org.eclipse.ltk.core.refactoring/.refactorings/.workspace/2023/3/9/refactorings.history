@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;bytebank-herdade-conta&apos; to &apos;bytebank-herdado-conta&apos;&#x0D;&#x0A;- Original element: &apos;bytebank-herdade-conta&apos;&#x0D;&#x0A;- Renamed element: &apos;bytebank-herdade-conta&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;bytebank-herdade-conta&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=bytebank-herdade-conta" name="bytebank-herdado-conta" references="true" stamp="1677876700777" version="1.0"/>
+</session>
